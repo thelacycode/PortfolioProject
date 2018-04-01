@@ -1,6 +1,6 @@
-# PortfolioProject
-My personal portfolio.
+# Portfolio Project
+My personal portfolio
 
 
-## Link to portfolio.
+## Link to portfolio
 https://thelacycode.github.io/PortfolioProject/
