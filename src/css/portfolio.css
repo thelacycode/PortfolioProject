@@ -210,7 +210,6 @@ h2 {
   }
 
 /* Adjustments needed to fit smaller devices */
-
 @media screen and (max-width: 460px)  {
   .logo {
     float:left;
